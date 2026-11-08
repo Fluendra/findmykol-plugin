@@ -1,0 +1,15 @@
+{
+  "name": "findmykol",
+  "description": "The FindMyKOL plugin for Claude: search 220,000+ key opinion leader profiles from public records.",
+  "owner": {
+    "name": "findmyHealth Technologies, LLC",
+    "email": "hello@findmykol.com"
+  },
+  "plugins": [
+    {
+      "name": "findmykol",
+      "source": "./",
+      "description": "Search FindMyKOL's directory of 220,000+ physician and researcher profiles (key opinion leaders) for life-sciences work."
+    }
+  ]
+}

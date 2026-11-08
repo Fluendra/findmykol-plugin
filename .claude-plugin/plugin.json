@@ -1,0 +1,23 @@
+{
+  "name": "findmykol",
+  "displayName": "FindMyKOL",
+  "version": "0.1.0",
+  "description": "Search FindMyKOL's directory of 220,000+ physician and researcher profiles (key opinion leaders) for life-sciences work.",
+  "author": {
+    "name": "findmyHealth Technologies, LLC",
+    "email": "hello@findmykol.com",
+    "url": "https://www.findmykol.com"
+  },
+  "homepage": "https://www.findmykol.com",
+  "privacyPolicyUrl": "https://www.findmykol.com/privacy",
+  "repository": "https://github.com/Fluendra/findmykol-plugin",
+  "license": "MIT",
+  "keywords": [
+    "healthcare",
+    "medical-affairs",
+    "kol",
+    "pharma",
+    "clinical-trials",
+    "research"
+  ]
+}
