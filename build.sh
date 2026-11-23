@@ -1,5 +1,5 @@
 #!/bin/sh
-# Build the ChatGPT plugin ZIP (INT-324). plugin.json must sit at the ARCHIVE
+# Build the ChatGPT plugin ZIP (#799). plugin.json must sit at the ARCHIVE
 # ROOT, so the zip is made from inside this directory, never of the directory.
 # Usage: sh plugin/build.sh [out.zip]   (default: findmykol-plugin-<version>.zip
 # next to this script)

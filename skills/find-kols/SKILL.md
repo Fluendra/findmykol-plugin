@@ -32,6 +32,13 @@ publication activity.
    NIH RePORTER, CMS Open Payments, and the NPPES registry.
 6. When a result carries `loosened_text_match: true`, say the results are closest
    matches rather than exact ones.
+7. When a result carries `unresolved`, a filter value you sent names nothing in that
+   dimension and matches no one. Do not report its `total` as a count of experts.
+   Retry with a slug from `close_matches`, or call `get_facet_counts` with a shorter
+   `contains`. A value with `synonym_of` is a term the directory files under each
+   listed indication. Pick the one that fits the user's question, or pass several.
+8. When a result carries `synonyms_applied`, a term you sent was read as the listed
+   indication. Name that indication when you present the results.
 
 Do not claim access to prescribing volumes, patient data, contact details, or
 scheduling; the tools do not provide them. When the user wants to contact or meet an

@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "Search FindMyKOL's directory of 220,000+ physician and researcher profiles (key opinion leaders) for life-sciences work.",
   "author": {
-    "name": "Internet of Trees, DBA findmyKOL",
+    "name": "findmyHealth Technologies, LLC",
     "email": "hello@findmykol.com",
     "url": "https://www.findmykol.com"
   },
@@ -24,7 +24,7 @@
         "displayName": "FindMyKOL",
         "shortDescription": "Find pharma KOLs fast",
         "longDescription": "FindMyKOL finds the right medical experts for life-sciences work. Search a directory of 220,000+ physician and researcher profiles built for Medical Affairs, clinical, and commercial teams in pharma and biotech.\n\nAsk for experts by disease area, drug, company, specialty, institution, society role type such as guideline panel seats, US region, or country. Filter to people running clinical trials, holding NIH grants, reporting industry payments, or presenting at congresses, and sort by citations, h-index, trial count, or rising activity: a trajectory signal that ranks who is climbing, not who is big. Every answer includes publication, trial, grant, and payment metrics from public records, with a link to the full profile on findmykol.com.\n\nBuilt from public sources: PubMed and OpenAlex scholarly records, ClinicalTrials.gov, NIH RePORTER, CMS Open Payments, and the NPPES registry. No patient data, no protected health information, no logins required.",
-        "developerName": "Internet of Trees, DBA findmyKOL",
+        "developerName": "findmyHealth Technologies, LLC",
         "category": "healthcare",
         "capabilities": [
           "Search 220,000+ KOL profiles by indication, drug, company, specialty, institution, role type, and geography",
